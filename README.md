@@ -23,7 +23,7 @@ Organizer of Flutter Nagpur 🥳 <br>
 <!--
 <img src="https://github-readme-stats-laksh29.vercel.app/api?username=laksh29&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height=150px>  
 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh29&theme=dark&hide_border=true" height=150px><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh29&hide_border=true" height=150px><br/>
 
 <!--
 <br>
