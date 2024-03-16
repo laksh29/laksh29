@@ -1,10 +1,11 @@
 # Heyyooo there 👋
 
 ### 💫 About Me:
-I am Laksh Samdariya, a [devsigner](https://laksh-devsigner.web.app). 💙 <br>
-Flutter Developer and a Designer <br>
-I am always up for new Fluttering challenge along with a cup of coffee ☕️👨🏻‍💻 <br>
-Organizer of Flutter Nagpur 🥳 <br>
+💙 I am Laksh Samdariya, a [devsigner](https://laksh-devsigner.web.app). <br>
+💬 Flutter Developer and a Designer <br>
+☕️ I am always up for new Fluttering challenge along with a cup of coffee 👨🏻‍💻 <br>
+🥳 Organizer of Flutter Nagpur  <br>
+🤝 Always up for community collaborations and talks <br>
 
 <br>
 
