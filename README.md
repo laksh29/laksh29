@@ -16,12 +16,13 @@ Organizer of Flutter Nagpur 🥳 <br>
 ## 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-red?style=flat&logo=Figma&logoColor=white) 
 
- <!--
+ 
 <br>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=AbhishekDoshi26&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekDoshi26&theme=radical&hide_border=false" height=150px><br/>
+<img src="https://github-readme-stats-laksh29.vercel.app/api?username=laksh29&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh29&theme=radical&hide_border=true" height=150px><br/>
 
+<!--
 <br>
 
 ## 📦 Flutter Packages:
