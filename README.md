@@ -1,18 +1,22 @@
 ### Heyyooo there 👋
 
 # 💫 About Me:
-🔭 I am a Google Developer Expert for Dart, Flutter & Firebase 💙💛<br>🤝 I love to help with Community Work<br>💙 I am the Organizer of Flutter Conf India - India's Largest Flutter Conference!<br>💬 Ask me about Flutter, Firebase and Community in general.<br>
+I am Laksh Samdariya, a [devsigner](laksh-devsigner.web.app). 💙 <br>
+Flutter Developer and a Designer <br>
+I am always up for new Fluttering challenge along with a cup of coffee ☕️👨🏻‍💻 <br>
+Organizer of Flutter Nagpur 🥳 <br>
+
 <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laksh.samdariya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laksh-samdariya-37442b201) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lakshsamdariya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/laksh_devsigner)
 
 <br>
-<!--
+
 ## 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FSupabase-3ECF8E%3Fstyle%3Dflat%26logo%3Dsupabase%26logoColor%3Dwhite) 
 
- 
+ <!--
 <br>
 
 ## 📊 GitHub Stats:
