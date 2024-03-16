@@ -20,40 +20,20 @@ Organizer of Flutter Nagpur 🥳 <br>
 <br>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats-laksh29.vercel.app/api?username=laksh29&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh29&theme=radical&hide_border=true" height=150px><br/>
+</--
+<img src="https://github-readme-stats-laksh29.vercel.app/api?username=laksh29&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height=150px>  
+-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh29&theme=radical&hide_border=true" height=150px><br/>
 
 <!--
 <br>
 
-## 📦 Flutter Packages:
-
-<a href="https://github.com/AbhishekDoshi26/contactus">
-  <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=radical" />
-</a>
-<a href="https://github.com/AbhishekDoshi26/super_extensions">
- <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=radical" />
-</a>
-<a href="https://github.com/AbhishekDoshi26/parent-child-checkbox">
-  <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=parent-child-checkbox&theme=radical" />
-</a>
-
-<br><br>
-
-
 ## 🏆 GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=AbhishekDoshi26&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-
-
-
-<br><br>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)   
-
-  ## 💰 You can help me by [Sponsoring](https://github.com/sponsors/AbhishekDoshi26/) and supporting my Open-Source Work ❤️
   -->
 
 <!--
