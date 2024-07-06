@@ -32,16 +32,18 @@
 ## 🏆 GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=laksh29&no-frame=false&no-bg=false&margin-w=4"/>
 
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laksh29&show_icons=true&locale=en&layout=compact" alt="laksh29" />
 
-
+<!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: 
+- 🌱 I’m currently learning: 
+- 👯 I’m looking to collaborate on: 
+- 🤔 I’m looking for help with: 
+- 💬 Ask me about: 
+- 📫 How to reach me: 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 -->
