@@ -30,7 +30,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<img src="https://github-trophies.vercel.app/?username=laksh29&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-trophies.vercel.app/?username=laksh29&no-frame=false&no-bg=false&margin-w=4"/>
 
 
 
