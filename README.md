@@ -26,19 +26,13 @@
 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh29&hide_border=true" height=150px><br/>
 
-<!--
+
 <br>
 
 ## 🏆 GitHub Trophies
-<img src="https://github-trophies.vercel.app/?username=AbhishekDoshi26&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-trophies.vercel.app/?username=laksh29&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
----
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)   
-  -->
-
-<!--
-**laksh29/laksh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
