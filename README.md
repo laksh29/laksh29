@@ -21,7 +21,7 @@ I am Laksh Samdariya, Software Engineer at Snipe.<br>I enjoy debugging mobile ap
 ![](https://github-contributor-stats.vercel.app/api?username=laksh29&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=laksh29&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![(https://visitcount.itsvg.in/api?id=laksh29&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/laksh29) 
